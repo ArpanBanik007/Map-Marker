@@ -43,7 +43,7 @@ A secure and modular RESTful API built with Node.js, Express, and MongoDB that a
 🛠️ Setup Instructions
 
 1. Clone the repository
-   git clone https://github.com/your-username/map-marker-api.git
+   git clone https://github.com/ArpanBanik007/map-marker-api.git
    cd map-marker-api
 
 2. Install dependencies
