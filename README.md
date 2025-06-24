@@ -164,6 +164,6 @@ This project is licensed under the MIT License.
 
 👤 Author
 
-Developed by Arpan Banik – https://github.com/your-username
+Developed by Arpan Banik – https://github.com/ArpanBanik007
 
 -----------------------------------
